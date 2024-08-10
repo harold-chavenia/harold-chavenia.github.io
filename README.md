@@ -8,8 +8,10 @@
 
 ## Work Experience
 **Junior Data Analyst @ Asialink Finance Corporation (_February 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Automated the company’s monthly financial reports using advanced formulas and functions in Microsoft Excel and Power BI which greatly enhanced the efficiency of extracting insights and identifying key performance indicators (KPIs) leading to a faster decision-making process.
+- Undertook comprehensive sessions of knowledge transfer with SGV & Co./EY Philippines, the country’s largest and leading professional services firm, about Expected Credit Loss (ECL) computation, risk-finance management, forecasting, and building statistical models.
+- Part of the company’s ECL Process Owners and ECL Working Group responsible for computing the ECL financial metric on a monthly basis using Microsoft Excel and RStudio.
+- Created R scripts that helped automate parts of the ECL calculation process which significantly reduced the group’s working time.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
