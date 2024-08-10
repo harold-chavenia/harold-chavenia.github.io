@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: MS Excel, Power BI, SQL, Python, R
+#### Technical Skills: Excel with VBA, Power BI, SQL, Python, R
 
 ## Education					       		
 - B.S., Chemistry	| Bicol University (_July 2023_)  			        		
