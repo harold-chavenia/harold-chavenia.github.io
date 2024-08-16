@@ -23,7 +23,7 @@ Performed exploratory data analysis on {students} dataset using **PostgreSQL** t
 [Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Analyzing Motorcycle Part Sales
-![Bike Study](/assets/img/amps_sql.jpg)
+![AMPS](/assets/img/amps_sql.jpg)
 
 Used **SQL** to analyze sales data for a company specializing in motorcycle parts, which operates across three warehouses. The primary objective was to dissect wholesale revenue by product line, examining how this revenue fluctuates month-to-month and varies across different warehouses. To achieve this, I calculated the net revenue for each product line, incorporating the various fees associated with different payment methods—credit cards, cash, and bank transfers. The analysis involved filtering the data to include only wholesale transactions, aggregating results by month and warehouse, and presenting insights that reveal trends and performance metrics. This project aimed to enhance understanding of wholesale dynamics within the company's operations.
 
