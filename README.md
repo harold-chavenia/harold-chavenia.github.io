@@ -6,6 +6,14 @@
 - B.S., Chemistry	| Bicol University (_July 2023_)  			        		
 - S.H.S., STEM | Naga College Foundation, Inc. (_March 2019_)
 
+## Scholarships and Awards			       		
+- Cum Laude (_July 2023_)          		
+- S.H.S. Rank 1 (All Strands) (_March 2019_)
+- J.H.S. Valedictorian (_March 2017_)
+- Grade 6 Valedictorian (_2013_)
+- DOST Scholar (_2019-2023)
+- MTV Scholar (_2013-2019_)
+
 ## Work Experience
 **Junior Data Analyst @ Asialink Finance Corporation (_February 2024 - Present_)**
 - Automated the company’s monthly financial reports using advanced formulas and functions in Microsoft Excel which greatly enhanced the efficiency of extracting insights and identifying key performance indicators (KPIs) leading to a faster decision-making process.
