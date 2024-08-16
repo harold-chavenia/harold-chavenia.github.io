@@ -7,12 +7,12 @@
 - S.H.S., STEM | Naga College Foundation, Inc. (_March 2019_)
 
 ## Scholarships and Awards			       		
-- Cum Laude | (_July 2023_)          		
-- S.H.S. Rank 1 (All Strands) | (_March 2019_)
-- J.H.S. Valedictorian | (_March 2017_)
-- Grade 6 Valedictorian | (_2013_)
-- DOST Scholar | (_2019-2023_)
-- MTV Scholar | (_2013-2019_)
+- Cum Laude (_July 2023_)          		
+- S.H.S. Rank 1 (All Strands) (_March 2019_)
+- J.H.S. Valedictorian (_March 2017_)
+- Grade 6 Valedictorian (_2013_)
+- DOST Scholar (_2019-2023_)
+- MTV Scholar (_2013-2019_)
 
 ## Work Experience
 **Junior Data Analyst @ Asialink Finance Corporation (_February 2024 - Present_)**
