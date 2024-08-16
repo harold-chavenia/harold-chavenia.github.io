@@ -20,7 +20,7 @@
 
 Performed exploratory data analysis on {students} dataset using **PostgreSQL** to determine if international students are at a higher risk of mental health difficulties compared to the general population. The average of total scores for depression, social connectedness, and acculturative stress were obtained and compared relative to the length of stay of international students at the university. Results showed nonlinear trend between length of stay and average depression score but generally followed a direct relationship, indicating that international students who stayed the longest at the university suffer the greatest from depression. Meanwhile, length of stay and average social connectedness score showed a non-monotonic pattern. Average social connectedness scores for international students were low during their earlier years, began to reached its peak at a certain point in time, then started to drop at later years. As for acculturative stress, it showed a fluctuating relationship with length of stay. Average acculturative stress, however, tend to lower as length of stay increases.
 
-!(/assets/img/asmh_postgresql.bin)
+!(/assets/img/asmh_postgresql.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
