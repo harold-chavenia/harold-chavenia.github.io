@@ -33,6 +33,16 @@ Performed exploratory data analysis on {students} dataset using **PostgreSQL** t
 ### Analyzing Motorcycle Part Sales
 ![AMPS](/assets/img/amps_sql.jpg)
 
+### Imvestigating Netflix Movies
+![ASMH](/assets/img/inm_python.png)
+
+In this project, I conducted an exploratory data analysis (EDA) on a Netflix dataset to uncover insights into movies released in the 1990s. The objective was to assist a production company specializing in nostalgic styles by providing a deep dive into the characteristics, trends, and patterns of 1990s films available on Netflix. This analysis aimed to identify key genres, popular titles, and other relevant factors from that decade, leveraging the extensive movie catalog offered by Netflix. The project demonstrated my ability to manipulate, analyze, and visualize data to draw actionable insights within the entertainment industry.
+
+[Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
+
+### Analyzing Motorcycle Part Sales
+![AMPS](/assets/img/amps_sql.jpg)
+
 Used **SQL** to analyze sales data for a company specializing in motorcycle parts, which operates across three warehouses. The primary objective was to dissect wholesale revenue by product line, examining how this revenue fluctuates month-to-month and varies across different warehouses. To achieve this, I calculated the net revenue for each product line, incorporating the various fees associated with different payment methods—credit cards, cash, and bank transfers. The analysis involved filtering the data to include only wholesale transactions, aggregating results by month and warehouse, and presenting insights that reveal trends and performance metrics. This project aimed to enhance understanding of wholesale dynamics within the company's operations.
 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
