@@ -33,6 +33,10 @@ Performed exploratory data analysis on {students} dataset using **PostgreSQL** t
 ### Analyzing Motorcycle Part Sales
 ![AMPS](/assets/img/amps_sql.jpg)
 
+Used **SQL** to analyze sales data for a company specializing in motorcycle parts, which operates across three warehouses. The primary objective was to dissect wholesale revenue by product line, examining how this revenue fluctuates month-to-month and varies across different warehouses. To achieve this, I calculated the net revenue for each product line, incorporating the various fees associated with different payment methods—credit cards, cash, and bank transfers. The analysis involved filtering the data to include only wholesale transactions, aggregating results by month and warehouse, and presenting insights that reveal trends and performance metrics. This project aimed to enhance understanding of wholesale dynamics within the company's operations.
+
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
 ### Imvestigating Netflix Movies
 ![ASMH](/assets/img/inm_python.png)
 
@@ -40,12 +44,12 @@ In this project, I conducted an exploratory data analysis (EDA) on a Netflix dat
 
 [Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### Analyzing Motorcycle Part Sales
-![AMPS](/assets/img/amps_sql.jpg)
+### Hypothesis Testing with Men's and Women's Soccer Matches
+![ASMH](/assets/img/htsm_python.png)
 
-Used **SQL** to analyze sales data for a company specializing in motorcycle parts, which operates across three warehouses. The primary objective was to dissect wholesale revenue by product line, examining how this revenue fluctuates month-to-month and varies across different warehouses. To achieve this, I calculated the net revenue for each product line, incorporating the various fees associated with different payment methods—credit cards, cash, and bank transfers. The analysis involved filtering the data to include only wholesale transactions, aggregating results by month and warehouse, and presenting insights that reveal trends and performance metrics. This project aimed to enhance understanding of wholesale dynamics within the company's operations.
+In this investigative project, I explored the hypothesis that more goals are scored in women's international soccer matches compared to men's. As a sports journalist specializing in soccer, I leveraged my years of experience observing both men's and women's international games to guide this analysis. Focusing on FIFA World Cup matches since January 1, 2002, I performed a statistical hypothesis test to compare the mean number of goals scored in men's and women's matches. The analysis was carried out using two datasets—women_results.csv and men_results.csv—containing comprehensive match data. The null hypothesis assumed that the mean number of goals in women's matches was the same as in men's, while the alternative hypothesis proposed that women's matches had a higher mean number of goals. The project aimed to provide statistically valid insights for an engaging article that soccer fans and subscribers would find compelling.
 
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ## Certifications
 - Lean Six Sigma White Belt (2024)
