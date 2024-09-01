@@ -53,7 +53,7 @@ In this investigative project, I explored the hypothesis that more goals are sco
 
 ## Certifications
 - Lean Six Sigma White Belt (2024)
-- [Data Analyst with Python, DataCamp (2024)] (/assets/img/DA With Python.jpg)
+[Data Analyst with Python, DataCamp (2024)] (/assets/img/DA With Python.jpg)
 - Data Analyst in R, DataCamp (2024)
 - Data Analyst in Power BI, DataCamp (2024)
 - Associate Data Analyst in SQL, DataCamp (2024)
