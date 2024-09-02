@@ -9,7 +9,7 @@ show_downloads: true
 
 # Base URL for GitHub Pages or deployment
 url: "https://yourwebsite.com" # Replace with your actual site URL
-baseurl: "" # Use the repo name if deploying on GitHub Pages (e.g., /myrepo)
+baseurl: "harold-chavenia.github.io" # Use the repo name if deploying on GitHub Pages (e.g., /myrepo)
 
 # Plugins
 plugins:
