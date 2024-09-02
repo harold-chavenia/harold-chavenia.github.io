@@ -7,9 +7,9 @@ theme: jekyll-theme-cayman
 logo: /assets/img/headshot_circle.png
 show_downloads: true
 
-# Base URL for GitHub Pages or deployment
-url: "https://yourwebsite.com" # Replace with your actual site URL
-baseurl: "harold-chavenia.github.io" # Use the repo name if deploying on GitHub Pages (e.g., /myrepo)
+# Base URL for GitHub Pages
+url: "https://harold-chavenia.github.io" # Your GitHub Pages URL
+baseurl: "" # Leave as "" for root-level GitHub Pages site
 
 # Plugins
 plugins:
