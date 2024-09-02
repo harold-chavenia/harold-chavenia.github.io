@@ -38,14 +38,14 @@ Used **SQL** to analyze sales data for a company specializing in motorcycle part
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 ### Imvestigating Netflix Movies
-![ASMH](/assets/img/inm_python.png)
+![ASMH](/assets/img/netflix.jpeg)
 
 In this project, I conducted an exploratory data analysis (EDA) on a Netflix dataset to uncover insights into movies released in the 1990s. The objective was to assist a production company specializing in nostalgic styles by providing a deep dive into the characteristics, trends, and patterns of 1990s films available on Netflix. This analysis aimed to identify key genres, popular titles, and other relevant factors from that decade, leveraging the extensive movie catalog offered by Netflix. The project demonstrated my ability to manipulate, analyze, and visualize data to draw actionable insights within the entertainment industry.
 
 [Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Hypothesis Testing with Men's and Women's Soccer Matches
-![ASMH](/assets/img/htsm_python.png)
+![ASMH](/assets/img/soccer.png)
 
 In this investigative project, I explored the hypothesis that more goals are scored in women's international soccer matches compared to men's. As a sports journalist specializing in soccer, I leveraged my years of experience observing both men's and women's international games to guide this analysis. Focusing on FIFA World Cup matches since January 1, 2002, I performed a statistical hypothesis test to compare the mean number of goals scored in men's and women's matches. The analysis was carried out using two datasets—women_results.csv and men_results.csv—containing comprehensive match data. The null hypothesis assumed that the mean number of goals in women's matches was the same as in men's, while the alternative hypothesis proposed that women's matches had a higher mean number of goals. The project aimed to provide statistically valid insights for an engaging article that soccer fans and subscribers would find compelling.
 
