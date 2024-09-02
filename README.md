@@ -56,5 +56,5 @@ In this investigative project, I explored the hypothesis that more goals are sco
 - [Data Analyst with Python, Datacamp (2024)](/assets/img/DA with Python.jpg)
 - [Data Analyst in R, DataCamp (2024)](/assets/img/DA with R.jpg)
 - [Associate Data Analyst in SQL, DataCamp (2024)](/assets/img/ADA in SQL.jpg)
-- Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy (NASBA) (2024)
+- [Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy (NASBA) (2024)](/assets/img/Excel.jpg)
 - [Excelerate Your Career: Mastering Microsoft Excel with the MO 200 Certification Training Program, Department of Information and Communication Technology Region V (2024)](/assets/img/Excel2.jpg)
