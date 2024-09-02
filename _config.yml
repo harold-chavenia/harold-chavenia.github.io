@@ -1,36 +1,5 @@
-# Site Configuration
 title: Harold Chavenia
-description: "Welcome to my personal site. Explore my work and interests."
-
-# Theme and Layout
-theme: jekyll-theme-cayman
 logo: /assets/img/headshot_circle.png
+#description: text below image
 show_downloads: true
-
-# Base URL for GitHub Pages
-url: "https://harold-chavenia.github.io" # Your GitHub Pages URL
-baseurl: "" # Leave as "" for root-level GitHub Pages site
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Exclusions
-exclude:
-  - README.md
-  - LICENSE
-  - node_modules
-
-# Permalinks
-permalinks:
-  posts: /:year/:month/:day/:title/
-
-# Markdown Configuration
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-# Google Analytics (optional)
-# google_analytics: UA-XXXXXXXXX-X
+theme: jekyll-theme-minimal
