@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Scientist
 
 #### Technical Skills: Excel with VBA, Power BI, SQL, Python, R
 
