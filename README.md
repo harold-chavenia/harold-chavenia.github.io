@@ -28,28 +28,20 @@
 
 Performed exploratory data analysis on {students} dataset using **PostgreSQL** to determine if international students are at a higher risk of mental health difficulties compared to the general population. The average of total scores for depression, social connectedness, and acculturative stress were obtained and compared relative to the length of stay of international students at the university. Results showed nonlinear trend between length of stay and average depression score but generally followed a direct relationship, indicating that international students who stayed the longest at the university suffer the greatest from depression. Meanwhile, length of stay and average social connectedness score showed a non-monotonic pattern. Average social connectedness scores for international students were low during their earlier years, began to reached its peak at a certain point in time, then started to drop at later years. As for acculturative stress, it showed a fluctuating relationship with length of stay. Average acculturative stress, however, tend to lower as length of stay increases.
 
-[Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
-
 ### Analyzing Motorcycle Part Sales
 ![AMPS](/assets/img/amps_sql.jpg)
 
 Used **SQL** to analyze sales data for a company specializing in motorcycle parts, which operates across three warehouses. The primary objective was to dissect wholesale revenue by product line, examining how this revenue fluctuates month-to-month and varies across different warehouses. To achieve this, I calculated the net revenue for each product line, incorporating the various fees associated with different payment methods—credit cards, cash, and bank transfers. The analysis involved filtering the data to include only wholesale transactions, aggregating results by month and warehouse, and presenting insights that reveal trends and performance metrics. This project aimed to enhance understanding of wholesale dynamics within the company's operations.
-
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 ### Imvestigating Netflix Movies
 ![ASMH](/assets/img/netflix.jpeg)
 
 Conducted an exploratory data analysis (EDA) using **Python** on a Netflix dataset to uncover insights into movies released in the 1990s. The objective was to assist a production company specializing in nostalgic styles by providing a deep dive into the characteristics, trends, and patterns of 1990s films available on Netflix. This analysis aimed to identify key genres, popular titles, and other relevant factors from that decade, leveraging the extensive movie catalog offered by Netflix. The project demonstrated my ability to manipulate, analyze, and visualize data to draw actionable insights within the entertainment industry.
 
-[Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
-
 ### Hypothesis Testing with Men's and Women's Soccer Matches
 ![ASMH](/assets/img/soccer.png)
 
 Using **R**, I explored the hypothesis that more goals are scored in women's international soccer matches compared to men's. Focusing on FIFA World Cup matches since January 1, 2002, I performed a statistical hypothesis test to compare the mean number of goals scored in men's and women's matches. The analysis was carried out using two datasets—women_results.csv and men_results.csv—containing comprehensive match data. The null hypothesis assumed that the mean number of goals in women's matches was the same as in men's, while the alternative hypothesis proposed that women's matches had a higher mean number of goals. The project aimed to provide statistically valid insights for an engaging article that soccer fans and subscribers would find compelling.
-
-[Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ## Certifications
 - [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
