@@ -52,6 +52,7 @@ In this investigative project, I explored the hypothesis that more goals are sco
 [Full Project Details](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ## Certifications
+- [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
 - [SQL Associate (2024)](/assets/img/SQA.jpg)
 - [Lean Six Sigma White Belt (2024)](/assets/img/LSSWB.jpg)
 - [Data Analyst with Python, Datacamp (2024)](/assets/img/DA with Python.jpg)
