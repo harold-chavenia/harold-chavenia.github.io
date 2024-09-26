@@ -28,9 +28,9 @@
 ### Forward Looking Probability of Default (PD) Calibration
 ![ASMH](/assets/img/PD Calib.png)
 ### Interactive Excel Dashboard With Macros
-![ASMH](/assets/img/Excel Dashboard.png)
+![ASMH](/assets/img/Excel Dashboard.jpg)
 ### Power BI Dashboard of Financial Reports
-![ASMH](/assets/img/PBI Dashboard.png)
+![ASMH](/assets/img/PBI Dashboard.jpg)
 
 ## Projects
 ### Analyzing Students' Mental Health
