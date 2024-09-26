@@ -23,6 +23,7 @@
 - Automated parts of the ECL calculation process by creating R scripts which significantly reduced the group’s working time.
   
 ## Featured Works
+(_Disclaimer: Some images were blurred to mask sensitive company information._)
 ### Expected Credit Loss (ECL) Automation Using R
 ![ASMH](/assets/img/ECL Automation.png)
 ### Forward Looking Probability of Default (PD) Calibration
