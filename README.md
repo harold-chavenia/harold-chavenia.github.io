@@ -55,11 +55,15 @@ Conducted an exploratory data analysis (EDA) using **Python** on a Netflix datas
 Using **R**, I explored the hypothesis that more goals are scored in women's international soccer matches compared to men's. Focusing on FIFA World Cup matches since January 1, 2002, I performed a statistical hypothesis test to compare the mean number of goals scored in men's and women's matches. The analysis was carried out using two datasets—women_results.csv and men_results.csv—containing comprehensive match data. The null hypothesis assumed that the mean number of goals in women's matches was the same as in men's, while the alternative hypothesis proposed that women's matches had a higher mean number of goals. The project aimed to provide statistically valid insights for an engaging article that soccer fans and subscribers would find compelling.
 
 ## Certifications
-- [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
+### Career Certifications
+- [Associate Data Analyst (2024)](/assets/img/ADA.jpg)
 - [SQL Associate (2024)](/assets/img/SQA.jpg)
-- [Lean Six Sigma White Belt (2024)](/assets/img/LSSWB.jpg)
+### Track Certifications
+- [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
 - [Data Analyst with Python, Datacamp (2024)](/assets/img/DA with Python.jpg)
 - [Data Analyst in R, DataCamp (2024)](/assets/img/DA with R.jpg)
 - [Associate Data Analyst in SQL, DataCamp (2024)](/assets/img/ADA in SQL.jpg)
+### Other Certifications
+- [Lean Six Sigma White Belt (2024)](/assets/img/LSSWB.jpg)
 - [Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy (NASBA) (2024)](/assets/img/Excel.jpg)
 - [Excelerate Your Career: Mastering Microsoft Excel with the MO 200 Certification Training Program, Department of Information and Communication Technology Region V (2024)](/assets/img/Excel2.jpg)
