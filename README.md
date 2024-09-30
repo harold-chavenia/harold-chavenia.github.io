@@ -58,11 +58,13 @@ Using **R**, I explored the hypothesis that more goals are scored in women's int
 ### Career Certifications
 - [Associate Data Analyst (2024)](/assets/img/ADA.jpg)
 - [SQL Associate (2024)](/assets/img/SQA.jpg)
+
 ### Track Certifications
 - [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
 - [Data Analyst with Python, Datacamp (2024)](/assets/img/DA with Python.jpg)
 - [Data Analyst in R, DataCamp (2024)](/assets/img/DA with R.jpg)
 - [Associate Data Analyst in SQL, DataCamp (2024)](/assets/img/ADA in SQL.jpg)
+
 ### Other Certifications
 - [Lean Six Sigma White Belt (2024)](/assets/img/LSSWB.jpg)
 - [Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy (NASBA) (2024)](/assets/img/Excel.jpg)
