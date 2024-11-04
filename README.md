@@ -66,6 +66,7 @@ Using **R**, I explored the hypothesis that more goals are scored in women's int
 - [Associate Data Analyst in SQL, DataCamp (2024)](/assets/img/ADA in SQL.jpg)
 
 ### Other Certifications
+- [Six Sigma Yellow Belt (2024)](/assets/img/SSYB.jpg)
 - [Lean Six Sigma White Belt (2024)](/assets/img/LSSWB.jpg)
 - [Excel Essential Training (Microsoft 365), National Association of State Boards of Accountancy (NASBA) (2024)](/assets/img/Excel.jpg)
 - [Excelerate Your Career: Mastering Microsoft Excel with the MO 200 Certification Training Program, Department of Information and Communication Technology Region V (2024)](/assets/img/Excel2.jpg)
