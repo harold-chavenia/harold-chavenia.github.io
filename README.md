@@ -5,6 +5,7 @@
 ## Education					       		
 - B.S., Chemistry	| Bicol University (_July 2023_)  			        		
 - S.H.S., STEM | Naga College Foundation, Inc. (_March 2019_)
+- [Full Educational Background](/assets/img/FEB.png)
 
 ## Scholarships and Awards			       		
 - Cum Laude (_July 2023_)          		
