@@ -61,6 +61,7 @@ Using **R**, I explored the hypothesis that more goals are scored in women's int
 - [SQL Associate (2024)](/assets/img/SQA.jpg)
 
 ### Track Certifications
+- [Data Scientist in R (2024)](/assets/img/DS_in_R.jpg)
 - [Associate Data Scientist in R (2024)](/assets/img/ADS in R.jpg)
 - [Data Analyst with Python, Datacamp (2024)](/assets/img/DA with Python.jpg)
 - [Data Analyst in R, DataCamp (2024)](/assets/img/DA with R.jpg)
