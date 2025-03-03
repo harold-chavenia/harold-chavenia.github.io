@@ -25,6 +25,8 @@
   
 ## Featured Works
 (_Disclaimer: Some images were blurred to mask sensitive company information._)
+### Interactive R Shiny Dashboard of Economic Indicators
+[View Dashboard](https://haroldchavenia.shinyapps.io/economic_indicators/)
 ### Expected Credit Loss (ECL) Automation Using R
 ![ASMH](/assets/img/ECL Automation.png)
 ### Forward Looking Probability of Default (PD) Calibration
