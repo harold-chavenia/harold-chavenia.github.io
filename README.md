@@ -26,8 +26,10 @@
 ## Featured Works
 (_Disclaimer: Some images were blurred to mask sensitive company information._)
 ### Interactive R Shiny Dashboard of Economic Indicators
-- [View Shiny Dashboard](https://haroldchavenia.shinyapps.io/economic_indicators/)
-- This project of mine is an end-to-end solution for collecting, processing, and forecasting key economic indicators using R. It automates web scraping from multiple sources (e.g., BSP, PSA, EIA, etc.), cleans and consolidates the data, and interpolates quarterly values to ensure smoother trend analysis. Using ARIMA models, the project forecasts economic trends for the next 12 months (for monthly data) and 4 quarters (for quarterly data). The processed data is then visualized through an interactive Shiny dashboard, featuring various plots and a file download option for exporting the data table.
+[View Shiny Dashboard](https://haroldchavenia.shinyapps.io/economic_indicators/)
+
+
+This project of mine is an end-to-end solution for collecting, processing, and forecasting key economic indicators using R. It automates web scraping from multiple sources (e.g., BSP, PSA, EIA, etc.), cleans and consolidates the data, and interpolates quarterly values to ensure smoother trend analysis. Using ARIMA models, the project forecasts economic trends for the next 12 months (for monthly data) and 4 quarters (for quarterly data). The processed data is then visualized through an interactive Shiny dashboard, featuring various plots and a file download option for exporting the data table.
 ### Expected Credit Loss (ECL) Automation Using R
 ![ASMH](/assets/img/ECL Automation.png)
 ### Forward Looking Probability of Default (PD) Calibration
