@@ -68,6 +68,7 @@ Using **R**, I explored the hypothesis that more goals are scored in women's int
 ### Track Certifications
 - [Data Scientist in R, DataCamp (2024)](/assets/img/DS_in_R.jpg)
 - [Associate Data Scientist in R, DataCamp (2024)](/assets/img/ADS in R.jpg)
+- [Associate Data Scientist in Python, DataCamp (2025)](/assets/img/ADS in P.jpg)
 - [Data Analyst with Python, DataCamp (2024)](/assets/img/DA with Python.jpg)
 - [Data Analyst in R, DataCamp (2024)](/assets/img/DA with R.jpg)
 - [Associate Data Analyst in SQL, DataCamp (2024)](/assets/img/ADA in SQL.jpg)
