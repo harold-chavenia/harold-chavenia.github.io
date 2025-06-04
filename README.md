@@ -62,6 +62,7 @@ Using **R**, I explored the hypothesis that more goals are scored in women's int
 
 ## Certifications
 ### Career Certifications
+- [Associate Data Engineer, DataCamp (2025)](/assets/img/ADE.png)
 - [Associate Data Analyst, DataCamp (2024)](/assets/img/ADA.jpg)
 - [SQL Associate, DataCamp (2024)](/assets/img/SQA.jpg)
 
