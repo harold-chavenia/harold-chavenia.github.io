@@ -22,7 +22,8 @@
 - Undertook comprehensive sessions of knowledge transfer with SGV & Co./EY Philippines, the country’s largest and leading professional services firm, about Expected Credit Loss (ECL) computation, risk-finance management, forecasting, and building statistical models.
 - Part of the company’s ECL Process Owners and ECL Working Group responsible for computing the ECL financial metric on a monthly basis using Microsoft Excel and RStudio.
 - Automated parts of the ECL calculation process by creating R scripts which significantly reduced the group’s working time.
-  
+
+<!--  
 ## Featured Works
 (_Disclaimer: Some images were blurred to mask sensitive company information._)
 ### Interactive R Shiny Dashboard of Economic Indicators
@@ -38,7 +39,7 @@ This project of mine is an end-to-end solution for collecting, processing, and f
 ![ASMH](/assets/img/Excel Dashboard.jpg)
 ### Power BI Dashboard of Financial Reports
 ![ASMH](/assets/img/PBI Dashboard.jpg)
-
+-->
 ## Projects
 ### Analyzing Students' Mental Health
 ![ASMH](/assets/img/asmh_postgresql.png)
