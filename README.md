@@ -28,7 +28,7 @@ indicators applying time series, statistical, and machine learning models to sup
 and developed a constant-elasticity demand adjustment model to make forecasted demand responsive to price changes, enabling dynamic price optimization for competitive positioning.
 
 **Asialink Finance Corporation** <br>
-Junior Data Analytics Officer | *December 2024 – August 2025*
+Junior Data Analytics Officer | *December 2024 – August 2025* <br>
 Junior Data Analyst | *February 2024 – November 2024*
 - Automated the company’s monthly financial reports using advanced formulas and functions in Microsoft Excel which greatly enhanced the efficiency of extracting insights and identifying key performance indicators (KPIs) leading to a faster decision-making process.
 - Built dashboards in Power BI which helped the stakeholders quickly answer business questions through visual inspection. 
