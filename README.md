@@ -17,8 +17,8 @@
 
 ## Work Experience
 
-### Data Analytics & Operations Research Analyst
-San Miguel Corporation | *September 2025 – Present*
+<h3 style="margin-bottom: 4px;">Data Analytics & Operations Research Analyst</h3>
+<p style="margin-top: 0;">San Miguel Corporation | <em>September 2025 – Present</em></p>
 - Reverse-engineered API endpoints via browser network inspection and scraped CMCI 
 (Cities and Municipalities Competitiveness Index) and Hazard Hunter PH risk indicators (e.g. lahar, flood, liquefaction) for site feasibility assessment.
 - Built a Power BI dashboard that gives SMC a unified, real-time view of its entire property 
