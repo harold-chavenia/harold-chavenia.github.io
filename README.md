@@ -16,8 +16,8 @@
 - MTV Scholar (_2013-2019_)
 
 ## Work Experience
-**Data Analytics & Operations Research Analyst** <br>
-San Miguel Corporation | *September 2025 – Present*
+**San Miguel Corporation** <br>
+Data Analytics & Operations Research Analyst | *September 2025 – Present*
 - Reverse-engineered API endpoints via browser network inspection and scraped CMCI 
 (Cities and Municipalities Competitiveness Index) and Hazard Hunter PH risk indicators (e.g. lahar, flood, liquefaction) for site feasibility assessment.
 - Built a Power BI dashboard that gives SMC a unified, real-time view of its entire property 
@@ -27,8 +27,9 @@ indicators applying time series, statistical, and machine learning models to sup
 - Estimated arc price elasticity coefficients from historical sales data
 and developed a constant-elasticity demand adjustment model to make forecasted demand responsive to price changes, enabling dynamic price optimization for competitive positioning.
 
-**Junior Data Analytics Officer** <br>
-Asialink Finance Corporation | *February 2024 – August 2025*
+**Asialink Finance Corporation** <br>
+Junior Data Analytics Officer | *December 2024 – August 2025*
+Junior Data Analyst | *February 2024 – November 2024*
 - Automated the company’s monthly financial reports using advanced formulas and functions in Microsoft Excel which greatly enhanced the efficiency of extracting insights and identifying key performance indicators (KPIs) leading to a faster decision-making process.
 - Built dashboards in Power BI which helped the stakeholders quickly answer business questions through visual inspection. 
 - Undertook comprehensive sessions of knowledge transfer with SGV & Co./EY Philippines, the country’s largest and leading professional services firm, about Expected Credit Loss (ECL) computation, risk-finance management, forecasting, and building statistical models.
