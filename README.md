@@ -16,7 +16,7 @@
 - MTV Scholar (_2013-2019_)
 
 ## Work Experience
-**Junior Data Analyst @ Asialink Finance Corporation (_February 2024 - Present_)**
+**Junior Data Analyst @ Asialink Finance Corporation (_February 2024 - August 2025_)**
 - Automated the company’s monthly financial reports using advanced formulas and functions in Microsoft Excel which greatly enhanced the efficiency of extracting insights and identifying key performance indicators (KPIs) leading to a faster decision-making process.
 - Built dashboards in Power BI which helped the stakeholders quickly answer business questions through visual inspection. 
 - Undertook comprehensive sessions of knowledge transfer with SGV & Co./EY Philippines, the country’s largest and leading professional services firm, about Expected Credit Loss (ECL) computation, risk-finance management, forecasting, and building statistical models.
